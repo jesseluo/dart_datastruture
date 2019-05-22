@@ -1,0 +1,11 @@
+name: dart_datastruture
+version: 0.0.1
+author: Jesse Luo
+description: A Dart package used to practice
+repository: https://github.com/jesseluo/dart_datastruture
+# dependencies:
+#   js: ^0.6.0
+#   intl: ^0.15.8
+dev_dependencies:
+     test: ^1.6.3
+    # mockito
